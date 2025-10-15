@@ -1,4 +1,4 @@
-# EEG2Text  
+# Thought2Text  
 
 ⚡ Transform brain signals into meaningful text  
 
